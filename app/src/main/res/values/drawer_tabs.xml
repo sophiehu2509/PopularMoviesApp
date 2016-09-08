@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_tabs">
+        <item>Search</item>
+        <item>Movies Information</item>
+        <item>Upcoming Movies</item>
+    </string-array>
+
+</resources>
