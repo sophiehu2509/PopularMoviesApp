@@ -7,4 +7,5 @@
 
 • Sort movies by date, name and rating
 
+
 ![](https://cloud.githubusercontent.com/assets/11381376/18333492/8ea20836-753d-11e6-805c-555a389266f0.png)
