@@ -8,4 +8,3 @@
 • Sort movies by date, name and rating
 
 
-![Alt text](/../<branch name>/path/to/image.png?raw=true "Optional Title")
